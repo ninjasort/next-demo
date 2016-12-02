@@ -1,0 +1,21 @@
+{
+  "name": "next-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "dev": "next",
+    "deploy": "now",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Cameron Roe <cameronjroe@gmail.com> (http://cameronroe.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^1.2.3"
+  }
+}
